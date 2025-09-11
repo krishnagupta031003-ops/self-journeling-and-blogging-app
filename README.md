@@ -30,6 +30,30 @@ This project allows users to create, edit, and manage personal journals or blog 
 
 ## 📂 Project Structure  
 
+selfJournelingAndBloggingApp/
+│── public/ # Static assets
+│── src/
+│ ├── appwrite/ # Appwrite config & auth services
+│ ├── components/ # Reusable UI components
+│ ├── store/ # Redux store & slices
+│ ├── conf/ # Config files
+│ ├── App.jsx # Main app component
+│ ├── main.jsx # Entry point
+│── .gitignore
+│── package.json
+│── vite.config.js
+│── README.md
+
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/<your-username>/selfJournelingAndBloggingApp.git
+cd selfJournelingAndBloggingApp
+
 
 
 
