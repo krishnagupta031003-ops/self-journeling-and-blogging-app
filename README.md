@@ -1,12 +1,35 @@
-# React + Vite
+# 📝 Self Journeling and Blogging App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern journaling and blogging platform built with **React, Redux, TailwindCSS, and Appwrite**.  
+This project allows users to create, edit, and manage personal journals or blog posts with a clean and responsive UI.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
 
-## Expanding the ESLint configuration
+- 🔐 **Authentication & Authorization** – User login & signup powered by **Appwrite**  
+- 📝 **Rich Text Editor (TinyMCE)** – Create and edit posts with a full-featured text editor  
+- 📂 **Media Uploads** – Upload and preview featured images for posts  
+- 📄 **CRUD Functionality** – Add, update, delete, and view posts  
+- 📱 **Responsive UI** – Built with **TailwindCSS** for seamless mobile & desktop experience  
+- ⚡ **State Management** – Handled via **Redux Toolkit**  
+- 🔄 **Form Handling & Validation** – Using **React Hook Form**  
+- 🚦 **Protected Routes** – Access control with **React Router v7**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React 19, React Router v7, Redux Toolkit, TailwindCSS 4  
+- **Backend & Auth:** Appwrite  
+- **Editor:** TinyMCE React  
+- **Form Management:** React Hook Form  
+- **Build Tool:** Vite  
+
+---
+
+## 📂 Project Structure  
+
+
+
+
